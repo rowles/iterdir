@@ -5,7 +5,7 @@ Mini Rust Library for Filesystem Directory Iteration
 let p = Path::new(".");
 let pb = p.to_path_buf();
 
-for fn in IterDir::new(&pb) {
+for f in IterDir::new(&pb) {
   // do something with file
 }
 ```
