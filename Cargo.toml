@@ -2,6 +2,9 @@
 name = "iterdir"
 version = "0.1.0"
 authors = ["Andrew Rowles <andrew@rowles.io>"]
+homepage = "https://github.com/rowles/iterdir"
+repository = "https://github.com/rowles/iterdir"
+readme = "README.md"
 license = "Unlicense/MIT"
 edition = "2018"
 
