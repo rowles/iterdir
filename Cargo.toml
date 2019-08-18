@@ -2,6 +2,7 @@
 name = "iterdir"
 version = "0.1.0"
 authors = ["Andrew Rowles <andrew@rowles.io>"]
+license = "Unlicense/MIT"
 edition = "2018"
 
 [dependencies]
